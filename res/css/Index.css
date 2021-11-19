@@ -1,0 +1,36 @@
+#st {
+   background-origin: border-box;
+    border-color: aqua;
+}
+body {
+    background-color: black;
+   }
+button {
+    border-color: darkgreen;
+    border-style: solid;
+    background-color: chartreuse;
+   }
+h1 {
+    color: chartreuse;
+   }
+h2 {
+    color: chartreuse;
+   }
+h3 {
+    color: chartreuse;
+   }
+h4 {
+    color: chartreuse;
+   }
+h5 {
+    color: chartreuse;
+   }
+h6 {
+    color: chartreuse;
+   }
+p {
+    color:white;
+   }
+a {
+    color:white;
+   } 
