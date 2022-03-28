@@ -13,8 +13,17 @@
         <form align="center" action="../index.html">
             <button type="sumbit">на главную</button>
         </form>
-        <form align="center" action="../index/001.html">
-            <button type="sumbit">Подробнее</button>
-        </form>
+			<div align="center">
+            <button align="center" id="Button" type="sumbit">Подробнее</button>
+			</div>
+			<script>
+				const Button = document.getElementById('Button')
+				
+				function ClickButton (){
+					alert("ошибка 001 это означает что страница не доделана");
+				}
+				
+				Button.addEventListener('click', ClickButton);
+			</script>
     </body>
 </html>
